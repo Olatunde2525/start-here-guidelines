@@ -134,8 +134,6 @@
 
 - [@DeanFowler](https://github.com/DeanFowler)
 
-- [@roqtun](https://github.com/roqtund)
-
 - [@DedaldinoPapelo](https://github.com/Dedaldino-Papelo)
 
 - [@DivRaw](https://github.com/DivRaw)
@@ -1829,3 +1827,5 @@
 -[@KevinT27](https://github.com/KevinT27)
 
 -[@olatunde2525](https://github.com/olatunde2525)
+
+- [@roqtund](https://github.com/roqtund)
